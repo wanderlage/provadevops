@@ -1,15 +1,15 @@
 # Assetify DevOps Test
 
-The project for the test for DevOps candidate to the Assetify team.
+This project will be for the evaluation of competitor Wander Luiz's technical capabilities for the DevOps position.
 
 ## Requirements
 
-This project has the dependencies of Python 3 and [Flask-RESTful](flask-restful.readthedocs.io).
+This project has execute in docker enviroment.
 
 ## Running the APP
 
 To run the app of this project you need to execute the following command:
 
 ```console
-python3 ./src/api/app.y
+docker run -p 5000:5000 wanderlage/provadevops:latest
 ```
