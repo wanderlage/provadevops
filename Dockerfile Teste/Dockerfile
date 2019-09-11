@@ -1,4 +1,4 @@
-FROM assetify-devops-test:latest
+FROM wanderlage/provadevops:latest
 
 WORKDIR /usr/src/app
 
