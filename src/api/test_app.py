@@ -1,10 +1,9 @@
 """This package has all tests of DevOps resource
 
 """
-
 import json
 from unittest import TestCase
-from api.app import APP, DevOps
+from app import APP, DevOps
 
 
 class DevOpsTestCase(TestCase):
