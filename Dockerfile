@@ -6,7 +6,6 @@ RUN mkdir -p /usr/src/app/tests
 ADD ./requirements.txt /usr/src/app/requirements.txt
 
 COPY src/api/* /usr/src/app/api/
-COPY src/tests/* /usr/src/app/tests/
 
 RUN pip install -r /usr/src/app/requirements.txt
 
