@@ -13,7 +13,6 @@ class DevOps(Resource):
     """The DevOps Resource
 
     """
-
     def get(self):
         """The get method of this resource
 
