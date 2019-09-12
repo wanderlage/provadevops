@@ -29,4 +29,14 @@ The code management is being performed on github with CI / CD on Dockerhub
 ```console
 https://github.com/wanderlage/provadevops
 ```
+## Access
 
+For access aplicattion, access the link: 
+
+```console
+http://provadevops.ddns.net/
+```
+
+## Infrastructure
+
+The infrasctucture is based in Google Computing Engine, CentOS 7.6 with Docker-CE 18.09 Single node.
