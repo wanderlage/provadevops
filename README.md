@@ -31,7 +31,7 @@ https://github.com/wanderlage/provadevops
 ```
 ## Access
 
-For access aplicattion, access the link: 
+For access application, access the link: 
 
 ```console
 http://provadevops.ddns.net/
