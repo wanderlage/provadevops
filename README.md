@@ -18,13 +18,14 @@ docker run -p 5000:5000 wanderlage/provadevops:latest
 
 The tests were performed with the following linters, Pylint and Flake8.
 
-```Pylint Rating: 10/10
+```console
+Pylint Rating: 10/10
 Flake8 Rating: 10/10
 ```
 # Code
 
 The code management is being performed on github with CI / CD on Dockerhub
 
-```
+```console
 https://github.com/wanderlage/provadevops
 ```
