@@ -13,3 +13,18 @@ To run the app of this project you need to execute the following command:
 ```console
 docker run -p 5000:5000 wanderlage/provadevops:latest
 ```
+
+# Test
+
+The tests were performed with the following linters, Pylint and Flake8.
+
+```Pylint Rating: 10/10
+Flake8 Rating: 10/10
+```
+# Code
+
+The code management is being performed on github with CI / CD on Dockerhub
+
+```
+https://github.com/wanderlage/provadevops
+```
